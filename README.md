@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm @Oliver2625, a full-stack developer based in Denmark. Im currently studying at Københavns Erhvervsakademi, also called EK.
+I'm Oliver, a full-stack developer based in Denmark. Im currently studying at Københavns Erhvervsakademi, also called EK.
 I help building strong and secure system, for small and big companys.
 
 I'm very lucky to have the knowledge i have, and therefore i love to share and help businesses be safe.
