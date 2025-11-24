@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm [Oliver](https://github.com/Oliver2625), a full-stack developer based in Denmark. Im currently studying at Københavns Erhvervsakademi, also called EK.
-I help building strong and secure system, for small and big companys.
+I'm [Oliver](https://github.com/Oliver2625), a full-stack developer based in Denmark. Im currently studying at Københavns Erhvervsakademi, also called EK.<br/>
+  I help building strong and secure system, for small and big companys.
 
-I'm very lucky to have the knowledge i have, and therefore i love to share and help businesses be safe.
+I'm very lucky to have the knowledge i have, and therefore i love to share and help businesses be safe.<br/>
 My knowledge is wide, but my main stack is, react, typescript, tailwindcss, framer motion, but for backend and security i use Python.
 
 In my free time, i love to make game designs, for FiveM Servers. Here i'm currently working on a private project called **Proxy**.
